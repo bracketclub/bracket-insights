@@ -17,7 +17,7 @@
     "bracket-scorer": "^3.4.1",
     "bracket-updater": "^3.4.4",
     "bracket-validator": "^3.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "yargs": "^10.0.3"
   },
   "devDependencies": {
