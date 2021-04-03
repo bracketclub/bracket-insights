@@ -1,5 +1,7 @@
 # bracket-insights
 
+_Note: This package is now located in the [bracketclub/bracketclub](https://github.com/bracketclub/bracketclub) monorepo._
+
 Write scripts to get insights about bracket entries or masters.
 
 ## Usage
